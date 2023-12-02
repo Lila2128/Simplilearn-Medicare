@@ -21,7 +21,9 @@ Download or clone the content of repository. Then follow the instruction given b
 
 ### Setup for backend
 1. Open Eclipse Ide. import maven project Medicare-Backend.
-2. Open the MedicareBackendApplication.java file. Right click and select run as java application.
+2. Set up your SQL credentials in Application.Properties.
+3. Open the MedicareBackendApplication.java file. Right click and select run as java application.
+   
 
 The web application is now ready to use in http://localhost:4200/
 
